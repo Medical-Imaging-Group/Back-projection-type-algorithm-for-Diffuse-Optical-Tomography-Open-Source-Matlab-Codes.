@@ -1,6 +1,6 @@
 # Back projection type algorithm for Diffuse Optical Tomography Open Source Matlab Codes.
 
-MATLAB CODES: (requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))*
+MATLAB  CODES: (requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))*
 
 # Matlab implementation of Backprojection-type reconstruction algorithm (proposed): reconstruct_stnd_cw_backproj.m  (requires: objective function file: opt_mu_objfun.m)
 
