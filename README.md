@@ -16,7 +16,7 @@ This Matlab code is used as part of the work presented in:
 
 Journal of Optical Society of America A, 2013 (Submitted).
 
-Created on: August 20, 2012.
+**Created on**: August 20, 2012.
 
 Updated on: August 20, 2012.
 
