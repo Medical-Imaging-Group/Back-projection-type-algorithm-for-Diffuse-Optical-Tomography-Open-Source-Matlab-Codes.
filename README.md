@@ -6,7 +6,7 @@ MATLAB  CODES: (requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))*
 
 **Matlab implementation of Landweber Iterative Algorithm: reconstruct_cw_max_eig.m**
 
-**# Matlab implementation of Standard reconstruction algorithm: reconstruct_stnd_cw.m**
+**Matlab implementation of Standard reconstruction algorithm: reconstruct_stnd_cw.m**
 
 Additional Information (includes reconstruction results of multiple target, breast imaging domain, and 3D experimental domain): additional_info.pdf
 
