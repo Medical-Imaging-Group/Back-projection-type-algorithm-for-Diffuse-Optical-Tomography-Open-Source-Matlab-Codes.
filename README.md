@@ -2,11 +2,11 @@
 
 MATLAB  CODES: (requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))*
 
-# Matlab implementation of Backprojection-type reconstruction algorithm (proposed): reconstruct_stnd_cw_backproj.m  (requires: objective function file: opt_mu_objfun.m)
+**Matlab implementation of Backprojection-type reconstruction algorithm (proposed): reconstruct_stnd_cw_backproj.m  (requires: objective function file: opt_mu_objfun.m)**
 
-#  Matlab implementation of Landweber Iterative Algorithm: reconstruct_cw_max_eig.m
+**Matlab implementation of Landweber Iterative Algorithm: reconstruct_cw_max_eig.m**
 
-# Matlab implementation of Standard reconstruction algorithm: reconstruct_stnd_cw.m
+**# Matlab implementation of Standard reconstruction algorithm: reconstruct_stnd_cw.m**
 
 Additional Information (includes reconstruction results of multiple target, breast imaging domain, and 3D experimental domain): additional_info.pdf
 
